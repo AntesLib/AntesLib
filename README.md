@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Antes
-- Java developer
+- Java, Rust beginner
 - 0 project
